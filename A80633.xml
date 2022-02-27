@@ -1,0 +1,311 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall questions of serious and necessary consequence, propounded by the teaching elders, unto M. Iohn Cotton of Boston in New-England. With his respective answer to each question.</title>
+            <author>Cotton, John, 1584-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80633</idno>
+            <idno type="STC">Wing C6455</idno>
+            <idno type="STC">Thomason E377_18</idno>
+            <idno type="STC">ESTC R20974</idno>
+            <idno type="EEBO-CITATION">99868606</idno>
+            <idno type="PROQUEST">99868606</idno>
+            <idno type="VID">159958</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80633)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159958)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E377[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall questions of serious and necessary consequence, propounded by the teaching elders, unto M. Iohn Cotton of Boston in New-England. With his respective answer to each question.</title>
+                  <author>Cotton, John, 1584-1652.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Banks, and are to bee sold in  Black-Friers on the top of Bride-well Staires, and in Westminster Hall, at the signe of the Seale.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also published as Sixteene questions of serious and necessary consequence (Wing C6458).</note>
+                  <note>Annotation on Thomason copy: "feb: 22 1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Theology --  Miscellanea --  Early works to 1800.</term>
+               <term>Congreationalism --  Early works to 1800.</term>
+               <term>Massachusetts --  Church history --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159958:1" rendition="simple:additions"/>
+            <p>Severall QVESTIONS OF Serious and neceſſary Conſequence, Propounded by the Teaching Elders, Unto M. IOHN COTTON of Boſton in <hi>New-England.</hi> WITH <hi>His reſpective Anſwer to each Queſtion.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Banks,</hi> and are to bee ſold in Black-Friers on the top of Bride-well Staires, and in Weſt<g ref="char:EOLhyphen"/>minſter Hall, at the ſigne of the Seale. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159958:2"/>
+            <pb n="1" facs="tcp:159958:2"/>
+            <head>Certain Queſtions propounded by the teaching Elders in the Bay, to M. <hi>John Cotton</hi> Teacher in the Church of <hi>Boſton.</hi>
+            </head>
+            <p>Queſt. I.</p>
+            <p>
+               <hi>WHat the ſeale of the Spirit is?</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>The Seale of the Spirit is taken by ſome good Di<g ref="char:EOLhyphen"/>vines to be the ſanctification of the Spirit, as that which like a Seale:
+<list>
+                  <item>1. <hi>Diſtinguiſheth,</hi> the faithfull:</item>
+                  <item>2. <hi>Conſenteth,</hi> the faithfull:</item>
+                  <item>3. <hi>Confirmeth</hi> the faithfull:</item>
+               </list> Others take it for the Witneſſe of the Spirit it ſelfe, as it is diſtin<g ref="char:EOLhyphen"/>guiſhed from our Spirit, <hi>Rom:</hi> 6.18. In which ſenſe it is commonly uſed by our Brethren in the Church: Though I my ſelfe doe ge<g ref="char:EOLhyphen"/>nerally forbeare to call it by that name, and do not uſually call it the <hi>Witneſſe of the Spirit,</hi> leaſt I might give offence to any, who may conceive the Seale of the Spirit to be more generall.</p>
+            <p>Queſt. II.</p>
+            <p>
+               <hi>Whether every Beleever be ſealed with it?</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>Every Beleever is not ſealed with the Seale of the Spirit, if the Seale be taken for the Witneſſe of the Spirit it ſelf, but in the for<g ref="char:EOLhyphen"/>mer ſenſe, all Beleevers be ſealed with it.</p>
+            <p>Queſt. III.</p>
+            <p>
+               <hi>What ground from the word of that Diſtinction, a Bread Seale, and the other Seale, and the difference between them.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>I know no ſuch Diſtinction between the Broad Seal and the other Seale: Nor was that Diſtinction propounded by any of our
+<pb n="2" facs="tcp:159958:3"/>Members, but by one of your ſelves, who expreſſing his concepti<g ref="char:EOLhyphen"/>on in that Speech, one of our Members anſwered him according to his meaning in his own word, if you call it ſo, ſaith he; Neverthe<g ref="char:EOLhyphen"/>leſſe thus much may truly be ſaid: There is a difference betweene the Witneſſe of the Spirit, as it regenerateth and reneweth our ſpirits; and the Witneſſe of the Spirit as it comforteth us with evident aſſurance of our <hi>Adoption, Rom,</hi> 8.16.</p>
+            <p>Queſt. IV.</p>
+            <p>
+               <hi>Whether a man may or ought to ſee any ſaving worke of Chriſt in himſelf, and take Comfort from it, before he be ſealed by the Spirit?</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>A true Beleever may and ought to ſee (if it be declared to him in the uſe of the means) any work of Chriſt in himſelf that he accom<g ref="char:EOLhyphen"/>panieth ſalvation (as <hi>Cornelius</hi> did) before he be ſealed with the witneſſe of the Spirit it ſelfe: yet full ſetled comfort he cannot take, nor reſt in, till it be witneſſed unto him by the Spirit: for Comfort without the Word is falſe Comfort, and neither Word nor Spirit, doe teach us to take any Comfort ſo much from the Worke of Chriſt in us, as from the Object of it.</p>
+            <p>Queſt. V.</p>
+            <p>
+               <hi>Whether the teſtimony or Seal of the Spirit be ſo clear, as to witneſs immediately by it ſelf, without reſpect of any work of Chriſt in a man, or ſo conſtant, that it being once obtained, a man doth never after queſtion his Eſtate.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>The Teſtimony of the Spirit is ſo cleare, as that it may witneſs immediately, though not without ſome work of Chriſt in a man, yet without reſpect unto the Worke: Nevertheleſſe it is not ſo conſtant or permanent, at leaſt not in all Beleevers) but that a man after he hath received it, may come in time of temptation to queſtion his Eſtate, though not ſo frequently nor ſo deſperately as before.</p>
+            <p>Queſt. VI.</p>
+            <p>
+               <hi>VVhether a Chriſtian may maintaine like conſtant Comfort in his ſoule, when he hath fallen into ſome groſſe ſinne, or neglected ſome knowne duty, as when he walked most cloſely with God.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>A Chriſtian man cannot find like conſtant comfort maintained
+<pb n="3" facs="tcp:159958:3"/>to his ſoule, after he hath fallen into ſin, whether of Commiſſion or Omiſſion, as when God keeps him in a cloſe walking with him: For the Spirit of God in him being grieved, (and grieved it is by any groſſe ſin eſpecially) it will not ſpeak wonted <hi>Peace</hi> and <hi>Com<g ref="char:EOLhyphen"/>fort</hi> to him. If <hi>David</hi> fall into ſuch groſſe ſins, as <hi>Adultery</hi> and <hi>Murder,</hi> it cannot be, but the bones of his comfort will be bro<g ref="char:EOLhyphen"/>ken, <hi>Pſal.</hi> 15.8. Nevertheleſſe, the aſſurance of a mans good Eſtate may be maintained to him, when the frame and courſe of his ſpirit is growne much degenerate, <hi>Iſai.</hi> 63.16.</p>
+            <p>Queſt. VII.</p>
+            <p>
+               <hi>Whether a weake Beleever may not warrantably apply ſome pro<g ref="char:EOLhyphen"/>miſe to himſelfe as given by God, although he doth not yet diſcerne his intereſt in it by the Broad Seale of the Spirit?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>A weak Beleever may warrantably apply ſome promiſe to him<g ref="char:EOLhyphen"/>ſelfe, and may have it alſo given him of God, even whileſt he is yet waiting for it, before he can diſcerne his intereſt in the pro<g ref="char:EOLhyphen"/>miſe, by the witneſſe of the Spirit it ſelfe: For the ſoule that waiteth for Chriſt, may come to ſee and know (by his renewed knowledge) that he doth waite; and may from thence conclude, that he on whom he waiteth, will not abſent himſelf for ever.</p>
+            <p>Queſt. VIII.</p>
+            <p>
+               <hi>VVhether a Chriſtian muſt of neceſſity have his firſt aſſurance from an abſolute, and not from a conditionall promiſe?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>A Chriſtian mans firſt aſſurance doth ariſe from the Spirit of God, applying Gods free grace in an abſolute promiſe. Or if in a conditionall promiſe, it is not to workes, but to <hi>faith,</hi> and to faith, not as it is a worke, but as it revealeth the free grace of God offered, and applied in Chriſt Jeſus.</p>
+            <p>Queſt. IX.</p>
+            <p>
+               <hi>VVhat you meane by Chriſtian ſanctification, whether immediate acting of the Spirit, or infuſed</hi> Habits: <hi>If habits infuſed, whether ſuch as are contrary to corrupt</hi> Nature, <hi>and all vitious</hi> Habits: <hi>and if ſo, whether you muſt not mean the Image of God in</hi> Adam <hi>renewed in us, to be our ſanctification?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>I meane by Chriſtian ſanctification, the fruit of the Spirit of
+<pb n="4" facs="tcp:159958:4"/>Chriſt dwelling in true Beleevers, working and acting in us, both infuſed <hi>Habits</hi> and actions of <hi>Holineſſe,</hi> contrary to all vitious <hi>Ha<g ref="char:EOLhyphen"/>bits</hi> and actions of corrupt <hi>Nature.</hi> And yet I do not mean, that the Image of God in <hi>Adam</hi> renewed in us (and no more then ſo) is our ſanctification: our ſanctification in Chriſt hath in it this more; Faith in the Righteouſneſſe of Chriſt, and Repentance from dead Works, (and that which is the root of all) the indwel<g ref="char:EOLhyphen"/>ling power of the Spirit, to act and keep Holineſſe in us all, which <hi>Adam</hi> wanted.</p>
+            <p>Queſt. X.</p>
+            <p>
+               <hi>VVhether this ſanctification being diſcerned by us, be not a true Evidence of Juſtification?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>If this ſanctification be evidently diſcerned, it is a true evidence of Juſtification, <hi>à Poſteriori,</hi> as Juſtification is likewiſe a true Evidence of Sanctification, <hi>à Priori.</hi>
+            </p>
+            <p>Queſt. XI.</p>
+            <p>
+               <hi>VVhether ſanctification being diſcerned, may not bee, and often is a ground of primitive Comfort, as it is an evidence of our being in Chriſt?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>I doe not beleeve that this ſanctification being diſcerned, is a ground of Primitive Comfort, though when it is evidently diſcer<g ref="char:EOLhyphen"/>ned, it be an evidence of our being in Chriſt. I conceive our faith depending on Chriſt is as ſoon diſcerned, and ſooner then our ſan<g ref="char:EOLhyphen"/>ctification by Chriſt; and yet, neither will diſcerning of it yeeld ſetled comfort to the ſoule, till the Spirit of God doth witneſſe from Chriſt, Gods thoughts of peace towards him.</p>
+            <p>Queſt. XII.</p>
+            <p>
+               <hi>VVhether when my ſanctification lyeth proſtrate, I may not prove my ſelf in a ſtate of</hi> Grace <hi>by my ſanctification?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>If my juſtification lyeth proſtrate, that is, altogether dark and hidden from me, I cannot prove my ſelf in a ſtate of Grace by my ſanctification: For whilſt I cannot beleeve that my perſon is ac<g ref="char:EOLhyphen"/>cepted in juſtification, I cannot beleeve that my works are accep<g ref="char:EOLhyphen"/>ted of God, as any true ſanctification.</p>
+            <pb n="5" facs="tcp:159958:4"/>
+            <p>Queſt. XIII.</p>
+            <p>
+               <hi>VVhether evidencing juſtification by ſanctification, be a building my juſtification on my ſanctification: or a going on in a</hi> Covenant <hi>of</hi> Works.</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>To evidence my juſtification by my ſanctification, though it may ſeem at firſt bluſh a plaine and evident <hi>Phraſe,</hi> yet is it indeed ambiguous, or at leaſt obſcure: Give me leave to cleare the ſenſe of it and then give you mine anſwer. To evidence my juſtification by my ſanctification, is no more at firſt hand then to give or hold forth my ſanctification for an evident Argument of juſti<g ref="char:EOLhyphen"/>fication: Thus farre the <hi>Phraſe</hi> is plain. But now when I give it for an evident Argument, I may give it either for an evident cauſe or ground of my juſtification, or for an evident ſigne or effect of it. Again, when I give it for an evident ſign of juſtification, I may either give it alone for an evident ſign (having nothing els to ſhew for my juſtification) or I may give it for a concurrent ſigne, to<g ref="char:EOLhyphen"/>gether with other ſignes and witneſſes, which may make both my juſtification and my ſanctification evident and cleare to my ſelfe and others. Having thus cleared the ambiguity and obſcurity of the <hi>Phraſe,</hi> I give you mine Anſwer diſtinctly in theſe ſeverall <hi>Propoſitions.</hi>
+            </p>
+            <p>
+               <hi>Propoſition.</hi> 1.</p>
+            <p>To give my ſanctification for an evident ground, or cauſe, or matter of my juſtification, is to build my juſtification upon my ſan<g ref="char:EOLhyphen"/>ctification, and to go on in a Covenant of Works.</p>
+            <p>
+               <hi>Propoſ.</hi> 2.</p>
+            <p>To give my ſanctification for an evident ground or cauſe of my faith, whereby I am juſtified, as when I doe not nor dare not de<g ref="char:EOLhyphen"/>pend upon Chriſt for my <hi>juſtification,</hi> till I evidently ſee my <hi>ſan<g ref="char:EOLhyphen"/>ctification,</hi> this is alſo to build my juſtification on my ſanctification, and to go on in a Covenant of works. For ſanctification (or which is all one) good workes are not the cauſe of juſtifying faith; but juſtifying faith the cauſe of them.</p>
+            <pb n="6" facs="tcp:159958:5"/>
+            <p>
+               <hi>Propoſ.</hi>
+            </p>
+            <p>To give my ſanctification for an evident cauſe and ground of my faith (not whereby I am juſtified, but) whereby I beleeve my ſelf to be juſtified (which they call the <hi>Faith of Aſſurance</hi>) this may be a building my juſtification on my ſanctification, or a going on in a <hi>Covenant of Works</hi> two waies:</p>
+            <p n="1">1. If the ſoule have no evidence of his dependance upon Chriſt for righteouſneſſe, nor no evidence of his effectuall calling unto Chriſt, and unto faith in Chriſt (by the Fathers drawing him to come to him) but onely he ſeeth an evident change in himſelfe, from a prophane and civill courſe to a ſanctified converſation; or at leaſt, upon that which is worſe, to wit, upon that which ſeemeth true Chriſtian ſanctification, which indeed is not, but a legal Refor<g ref="char:EOLhyphen"/>mation. For when a man hath been humbled under the Spirit of bondage by the terrors of the Law, yet he may never come to feel his need of Chriſt, nor his own inſufficiency or unworthineſs to receive him.</p>
+            <p>Though he may obtain
+<list>
+                  <item>1 Reſtraining grace to keep him from known ſinnes.</item>
+                  <item>2. Conſtraining (or exciting) Grace to pro<g ref="char:EOLhyphen"/>voke him to duty (or elſe his Conſcience ſometimes terrified by the Law would flye in his face.</item>
+               </list>
+            </p>
+            <p>And though in this way he may finde comfort (as the ſtony ground did, and thorny ſoyle much more) and ſo from this great change hee may build up to himſelfe the faith or <hi>Aſsurance</hi> of his <hi>Juſtification,</hi> yet in truth, in ſo doing he buildeth upon ſuch a ſan<g ref="char:EOLhyphen"/>ctification which is indeed a ſandy foundation.</p>
+            <p n="2">2. To give my <hi>ſanctification</hi> for an evident ground or cauſe of faith, whereby a man beleeveth himſelfe to be juſtified, may be a building of <hi>Juſtification,</hi> upon a <hi>Sanctification</hi> in another caſe: to wit, when we ſhall give a man no other ground or evidence of his <hi>juſtification,</hi> but onely from the evidence of his <hi>ſanctification:</hi> For the Publican did not (as the Phariſee thought himſelfe did) ſee any evident fruits of his <hi>ſanctification,</hi> but was deeply affected with the ſenſe of his ſinnes, ſo that he ſmote his breaſt with the Anguiſh of ſin, and durſt not lift up his eyes to heaven through confuſion of face for ſinne, but only cryed out to God to be mer<g ref="char:EOLhyphen"/>cifull
+<pb n="7" facs="tcp:159958:5"/>unto him in this ſinfull eſtate: and yet by our Saviours own judgement. this man went home juſtified, rather then the other (<hi>Luk.</hi> 18.) though he ſaw no evidence of his <hi>ſanctification,</hi> but rather Evidence of his ſinfull corruption. If any of our brethren doubt hereof, I would pray them to call to minde what ſome of them that lived in <hi>Eſsex</hi> have heard our brother <hi>Hooker</hi> and Ma<g ref="char:EOLhyphen"/>ſter <hi>Rogers</hi> alſo teach ſoundly, and argue out of the Word; that there be ſaving graces which are not ſanctifying, but are wrought before <hi>ſanctification,</hi> which yet may beare witneſſe to a ſafe eſtate (and I may adde to Fellowſhip with Chriſt, for there is no ſafety but in him) before the ſoule can ſee any evidence of his <hi>Sancti<g ref="char:EOLhyphen"/>fication.</hi>
+            </p>
+            <p>
+               <hi>Propoſ.</hi> 4.</p>
+            <p>A man may give his <hi>ſanctification</hi> for an evident ground or cauſe of his faith whereby he is juſtified, and yet ſometimes not build his <hi>juſtification</hi> upon his <hi>ſanctification,</hi> nor be under a <hi>Cove<g ref="char:EOLhyphen"/>nant</hi> of <hi>workes,</hi> but only ſometimes go aſide to a <hi>Covenant</hi> of <hi>works:</hi> As in caſe, when a man is truly juſtified, and ſeeth it not, he doth then betake him to his workes for the haſtning of his <hi>aſſurance.</hi> As <hi>Abraham</hi> when he had long waited for the Promi<g ref="char:EOLhyphen"/>ſed Seed, thought he was juſtified by beleeving the free Promiſe: yet, for the more ſpeedy ſatisfying of his faith and hope, he turned aſide to go into <hi>Hagar</hi> (who was a <hi>Type</hi> of the <hi>Covenant</hi> of <hi>works</hi>) for the haſtning of his ſight and fruition of the promiſed Seed: So there be ſundry Children of <hi>Abraham,</hi> even of his elect Seed, that having been driven out of their ſins by a Spirit of Bon<g ref="char:EOLhyphen"/>dage, and finding a need of Chriſt, and their own inſufficiency and unworthineſſe to receive him: do therefore ſeek and wait for him (by the mighty power of God) in every Ordinance and Duty. Such men are already truly juſtified, though it may be as yet they do not know ſo much, becauſe this their ſeeking and waiting for Chriſt, in the ſenſe of their own need &amp; emptineſs, and unworthi<g ref="char:EOLhyphen"/>neſs, is a true act of a lively juſtifying faith. But now if ſuch ſouls, becauſe God may tarrie long, before they can ſee and feel Chriſt given to them, ſhall therefore ſeek Chriſt in their owne workes or <hi>ſanctification</hi> and in the promiſes and bleſſing given to ſuch workes and not finding ſuch workes, can finde no Peace nor <hi>Aſſurance:</hi> ſuch ſoules, though they doe not build their <hi>juſti<g ref="char:EOLhyphen"/>fication</hi>
+               <pb n="8" facs="tcp:159958:6"/>upon their <hi>ſanctification,</hi> for indeed they were truly juſtified before, while they depend on CHRIST for righte<g ref="char:EOLhyphen"/>ouſneſſe, according to the free Promiſe of Grace, and ſo are truly under a <hi>Covenant</hi> of Grace, yet they goe aſide to a <hi>Co<g ref="char:EOLhyphen"/>venant</hi> of <hi>workes,</hi> as unto <hi>Hagor,</hi> to bring forth to the ſight of Chriſt, the ſeed of promiſe, whom they ſo long waited for. The failing of ſuch ſoules is this, that they having Chriſt laid in their hearts, as the foundation of their <hi>juſtification,</hi> though they know not ſo much. Upon this golden and precious foundation they build hey and ſtubble, in ſeeking, and ſetling, and grounding their faith of <hi>aſsurance</hi> not upon Chriſt, nor upon the free promiſe of grace, nor upon the <hi>witneſse</hi> of the ſpirit it ſelfe applying the ſame, but upon the holineſs of their owne workes. In which caſe they are often put to many and ſad doubts, ever and anon renewed upon them, till the faith and confidence, which they had built upon their own workes, be at length burnt up with the fire of temptation, and the clearer day-light of Gods Word and Spi<g ref="char:EOLhyphen"/>rit And then, though their owne workes and their owne buil<g ref="char:EOLhyphen"/>ding thereupon be burned, yet their ſoules will be ſaved in the day of the Lord Jeſus.</p>
+            <p>
+               <hi>Propoſ.</hi> 1.</p>
+            <p>The ſoule that hath lyen under the terrors of the Law, and cometh afterwards to ſee and feele his need of Chriſt, and his owne ſtrength and worth to receive him, and doth depend upon Chriſt for <hi>righteouſneſs</hi> and <hi>mercy,</hi> he may come in his eſtate to ſee, by his renewed knowledge, his dependance on Chriſt, and withall ſome fruits of <hi>ſanctification,</hi> that flow there-from, as pray<g ref="char:EOLhyphen"/>er, ſometimes, with unutterable ſighs and groanes, brokenneſs of ſpirit, mourning for ſight of Chriſt, longing deſire after the ſincere <hi>Milk</hi> of the word, love of the Miniſtery that wounded him, &amp;c. And ſeeing God helping him here, he may thereby gather, that he that hath begun to help him, will go on to help him ſtill. But yet to give theſe for certain evidences of his <hi>juſtification,</hi> the poor ſoule dare not, though another Chriſtian of better diſcern<g ref="char:EOLhyphen"/>ing, may juſtly ſo apply to him as good evidences of his juſtified eſtate. But nevertheleſſe he will ſtill ſeek and wait for further and clearer fellowſhip with Chriſt, till the Spirit of God himſelf do witneſs to him, the gracious thoughts of God towards him in a
+<pb n="9" facs="tcp:159958:6"/>free Promiſe of Grace, before he can plead his own good works, (whether after Converſion or before) for good evidences of his <hi>juſtification.</hi> For (as it hath been obſerved by ſome of our godly learned Countrymen) the graces of Gods Spirit in our Soules, are like the Stars in the <hi>Firmament,</hi> which ſhine but with a borrowed Light from the <hi>Sun:</hi> If the <hi>Sun</hi> were hid from them, their Light would be obſcure: ſo is the light of our graces, if the Spirit of God do hide his light from us.</p>
+            <p>
+               <hi>Propoſ.</hi> 6.</p>
+            <p>But now if the ſpirit of God do ſhew abroad his light into ſuch a Soule, and give him a clear ſight of his eſtate in a free Promiſe of grace in Chriſt; ſuch a one evidently diſcerneth both his <hi>juſtifica<g ref="char:EOLhyphen"/>tion</hi> and his <hi>ſanctification;</hi> and the one of them giving good Evi<g ref="char:EOLhyphen"/>dence to the other, the blood to the water, and the water to the blood, and the ſpirit to both, 1 <hi>John</hi> 5.9.8. And thus in eviden<g ref="char:EOLhyphen"/>cing his <hi>juſtification</hi> by his <hi>ſanctification,</hi> he doth not build his <hi>juſti<g ref="char:EOLhyphen"/>fication</hi> upon his <hi>ſanctification,</hi> nor hereby go on in a <hi>Covenant</hi> of works, nor go aſide to it.</p>
+            <p>
+               <hi>Propoſ.</hi> 7.</p>
+            <p>But though the Soule may gather knowledge of his eſtate, from ſuch Evidences of <hi>Sanctification,</hi> yet if he ſhall therefore build his juſtifying Faith upon ſuch evidences, he ſhall againe go aſide to a <hi>Covenant</hi> of works, though his perſon may be under a <hi>Covenant</hi> of grace; For juſtifying Faith cannot ſafely build or reſt upon any ground, ſave only upon Chriſt and his <hi>Righteouſneſſe.</hi>
+            </p>
+            <p>Queſt. XIV.</p>
+            <p>
+               <hi>Whether a Chriſtian be not further active after</hi> Regeneration, <hi>then before, if there be a difference, wherein it lyeth?</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>A Chriſtian is more active after <hi>Regeneration</hi> then before, be<g ref="char:EOLhyphen"/>fore <hi>Regeneration</hi> we are not active at all in any ſpiritual Chriſtian Action, no nor in <hi>Proximam Potentiam,</hi> Paſſive to receive helpe from God to do it, but after <hi>Regeneration, Acti Agimus.</hi> If wee act and go forth in the ſtrength of our own ſpirituall <hi>Gifts,</hi> with<g ref="char:EOLhyphen"/>out looking up to Chriſt, we fall as <hi>Peter</hi> did, <hi>Math,</hi> 26.23.</p>
+            <p>Queſt. XV.</p>
+            <p>
+               <hi>Whether it be not a ſafe way to conclude my ſafe eſtate by my pra<g ref="char:EOLhyphen"/>cticall Reaſoning?</hi>
+            </p>
+            <pb n="10" facs="tcp:159958:7"/>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>It is not an unſafe, but a lawfull way to conclude a mans ſafe e<g ref="char:EOLhyphen"/>ſtate by way of practicall reaſoning, ſo it be, the reaſon be not carnall but ſpirituall. One Propoſition being expreſſed in the Word, or ſafely deducted thence; the other being experimen<g ref="char:EOLhyphen"/>tall obſervation of a good conſcience, enlightened by the Spirit of God, and looking up to Chriſt to cleare the concluſion from both. Nevertheleſs a good conſcience will not ſatisfie himſelfe in this way till it be eſtabliſhed by the <hi>witneſſe</hi> of the Spirit; or if it ſhould ſo ſatisfie or reſt it ſelfe for a ſeaſon, God will awaken it in time, to a ſenſe further need of Chriſt.</p>
+            <p>Queſt. XVI.</p>
+            <p>
+               <hi>Whether a Chriſtian may not preſſe the Lord for ſpirituall Mer<g ref="char:EOLhyphen"/>cies, with Arguments drawne from the graces of Christ in him<g ref="char:EOLhyphen"/>ſelfe?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>A Chriſtian ſoule is more uſually wont to preſſe the Lord for ſpirituall Mercies, by Arguments drawne from his owne ſpirituall miſeries and infirmities, then from the graces of Chriſt in himſelf. Nevertheleſſe the Saints do alſo make uſe of Arguments drawne from the graces of Chriſt, when they doe diſcerne the ſame in themſelves, but they are uſually ſuch graces whereby they go out of themſelves, and their owne <hi>ſtrength</hi> and <hi>worth,</hi> (as faith, hope, deſire, ſeeking, waiting, &amp;c.) or ſuch as doe expreſſe their ſpiritu<g ref="char:EOLhyphen"/>all bent and inclination, or affection, which they deſire might be quickned and ſatisfied with their ſpirituall proper <hi>Object</hi> or end, but the force of their Arguments from thoſe graces is fetch<g ref="char:EOLhyphen"/>ed not from the force, or fulneſs, or power of them, but from the weakneſſe and emtineſſe of them.</p>
+            <p>Thus have you (according to your deſire) a plain and ſhort An<g ref="char:EOLhyphen"/>ſwer to all your demands, except the thirteenth; which being ex<g ref="char:EOLhyphen"/>poſed to greateſt agitation, and exception, I have ſpoken the more largely and diſtinctly to it; that ſo, I might avoid carefully, as I ſee it needfull, all ſuſpition of ambiquity and obſcurity.</p>
+            <p>Now the <hi>God of Truth and Peace</hi> lead us by his <hi>Spirit of Truth</hi> into all <hi>Truth,</hi> through <hi>him,</hi> who is made unto us of <hi>God,</hi> the <hi>Way,</hi> the <hi>Truth,</hi> and the <hi>Life,</hi> AMEN.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
